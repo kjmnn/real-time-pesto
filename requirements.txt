@@ -1,0 +1,5 @@
+--index-url https://download.pytorch.org/whl/cpu
+matplotlib==3.9.2
+PyAudio==0.2.14
+torch==2.5.0
+pesto-pitch==1.0.0
