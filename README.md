@@ -1,5 +1,5 @@
 # Real-time pitch estimation with PESTO
-A little script I made to run [PESTO](https://github.com/SonyCSLParis/pesto) in real time and display the output as an animated graph. 
+A little script I made to run [PESTO](https://github.com/SonyCSLParis/pesto) in real time (on input from default input device) and display the output as an animated graph. 
 
 Dependencies are in `requirements.txt`; it should probably run on GPU as well, but I only tested it on CPU on my Linux machine.
 
